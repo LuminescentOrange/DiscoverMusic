@@ -1,5 +1,9 @@
 # DiscoverMusic
 
+## Demo Video
+
+https://drive.google.com/file/d/1V2sx33wIKlg8nmQWxqk9dUYVoZQNs21K/view?usp=sharing
+
 ## Project Summary
 Our project is to design a website that collects most of famous artists and all of their songs, allows a user to search for albums, artists, or songs, and lets them read or write reviews. This also allows them to see which reviews seem more credible by an upvote system from other users. Music connoisseurs can share their opinions and give recommendations/feedback while music novices can look at music and see what they resonate with as well as what others in the community enjoy.
 
